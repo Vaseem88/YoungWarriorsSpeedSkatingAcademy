@@ -5,8 +5,8 @@ import vue from '@vitejs/plugin-vue'
 import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
+//  base: '/YoungWarriorsSpeedSkatingAcademy/',
 export default defineConfig({
-  base: '/YoungWarriorsSpeedSkatingAcademy/',
   plugins: [
     vue(),
     vueDevTools(),
