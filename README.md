@@ -1,44 +1,39 @@
-# young-warriors-speed-skating-academy
+> in development
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Used to build
 
-## Recommended Browser Setup
+* <a href="https://github.com/tailwindcss/tailwindcss">tailwindcss</a> - A utility-first CSS framework for rapid UI development
+* <a href="https://github.com/vuejs">vuejs</a>
+  - <a href="https://github.com/vuejs/vue">vue</a> - Javascript Framework
+  - <a href="https://github.com/vuejs/vue-cli">vue-cli</a> - Standard Tooling for Vue.js Development
+  - <a href="https://github.com/vuejs/vue-router">vue-router</a> - The official router for Vue.js
+  - <a href="https://github.com/vuejs/vuefire">vuefire</a> - Firebase bindings for Vue.js
+* <a href="https://github.com/axios/axios">axios</a> - Promise based HTTP client for the browser and node.js
+* <a href="https://github.com/SSENSE/vue-carousel">vue-carousel</a> - Carousel for Vue.js
+* <a href="https://github.com/rigor789/vue-scrollto">vue-scrollto</a> - Listens for click events and scrolls to elements
+* <a href="https://www.flaticon.com/">flaticon</a> - All icons (svg and png)
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## Install and run
 
-## Customize configuration
+To edit the template you need to configure some prerequisites. If you have installed or configured any of the steps, feel free to proceed to the next one.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+### Prerequisites
 
-## Project Setup
+1. You need to have <a href="https://www.npmjs.com/get-npm">npm</a> or <a href="https://yarnpkg.com/lang/en/docs/install/">yarn</a> installed in your system.
+2. You need to have installed <a href="https://github.com/vuejs/vue-cli">vue-cli</a> in your system. Navigate to the installation guide of the official vue-cli page (<a href="https://cli.vuejs.org/guide/installation.html">https://cli.vuejs.org/guide/installation.html</a>) and follow the instractions.
 
-```sh
-npm install
-```
+### Template Installation
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+1. Clone or download the project
+2. Go to the project and if you do not have a <strong>.env</strong> file, rename the <strong>.env.example</strong> file to <strong>.env</strong>
+3. Paste your firebase authenitcation keys (from the previous steps) into the <strong>.env</strong> file
+4. Install all the dependencies by entering the following command in your terminal:
+  ```sh
+  npm install
+  ```
+5. To run the app enter
+  ```sh
+  npm run serve
+  ```

@@ -1,73 +1,40 @@
-<script setup>
-import { ref } from 'vue'
-import { RouterView } from 'vue-router'
-import Navbar from './components/Navbar.vue'
-import Footer from './components/Footer.vue'
-
-const showMobileNav = ref(false)
-</script>
-
 <template>
-  <div id="app-root">
-    <Navbar />
-
-    <main>
-      <router-view v-slot="{ Component, route }">
-        <transition name="fade" mode="out-in">
-          <div :key="route.name">
-            <component :is="Component"></component>
-          </div>
-        </transition>
-      </router-view>
-    </main>
-
-    <Footer />
+  <div id="app">
+    <app-header></app-header>
+    <app-features></app-features>
+    <app-download></app-download>
+    <app-testimonials></app-testimonials>
+    <app-contact></app-contact>
+    <app-footer></app-footer>
   </div>
 </template>
 
-<style>
-:root {
-  --black: #0b0b0b;
-  --gold: #d4af37;
-  --muted: #f4f4f6;
-  --accent: #1f2937;
-}
-html {
-  scroll-behavior: smooth;
-}
-body {
-  font-family:
-    Inter,
-    system-ui,
-    -apple-system,
-    'Segoe UI',
-    Roboto,
-    'Helvetica Neue',
-    Arial;
-  margin: 0;
-  color: var(--black);
-  background: var(--muted);
-}
-main {
-  min-height: 70vh;
-}
-.fade-slide-enter-active,
-.fade-slide-leave-active {
-  transition: all 0.35s ease;
-}
-.fade-slide-enter-from {
-  opacity: 0;
-  transform: translateY(10px);
-}
-.fade-slide-leave-to {
-  opacity: 0;
-  transform: translateY(-10px);
-}
+<script>
+import AppHeader from "./components/AppHeader.vue";
+import AppFeatures from "./components/AppFeatures.vue";
+import AppTestimonials from "./components/AppTestimonials.vue";
+import AppFooter from "./components/AppFooter.vue";
+import AppContact from "./components/AppContact.vue";
+import AppDownload from "./components/AppDownload.vue";
 
-/* Utility */
-.container {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 0 1rem;
+export default {
+  components: {
+    AppHeader,
+    AppFeatures,
+    AppTestimonials,
+    AppFooter,
+    AppContact,
+    AppDownload
+  }
+};
+</script>
+
+<style>
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
+#app{
+  color: var(--gold);
+  background-color: var(--black);
 }
 </style>

@@ -1,10 +1,36 @@
-import { createApp } from 'vue'
+import Vue from 'vue'
 import App from './App.vue'
-import router from './router'
+import VueScrollTo from 'vue-scrollto'
+import axios from 'axios'
+import VueCarousel from 'vue-carousel'
+import VueFire from 'vuefire'
+import VueRouter from 'vue-router'
+import { routes } from './router'
 import './styles.css'
 
-const app = createApp(App)
+Vue.use(VueRouter)
+Vue.use(VueCarousel);
+Vue.use(VueFire);
 
-app.use(router)
+window.axios = axios;
 
-app.mount('#app')
+Vue.use(VueScrollTo, {
+  container: "body",
+  duration: 1000,
+  easing: "ease-in-out",
+  offset: 0,
+  force: true,
+  cancelable: true,
+  onStart: false,
+  onDone: false,
+  onCancel: false,
+  x: false,
+  y: true
+});
+
+const router = new VueRouter({ routes, mode:'history' })
+
+new Vue({
+  router,
+  render: h => h(App),
+}).$mount('#app')
