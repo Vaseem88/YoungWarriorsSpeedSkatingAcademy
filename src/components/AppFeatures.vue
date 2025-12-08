@@ -1,20 +1,20 @@
 <template>
     <div id="Programs" class="mb-6">
         <div class="bg-grey-lightest">
-            <div class="container mx-auto px-6 pt-32">
+            <div class="container mx-auto md:px-6 pt-32">
                 <h1 class="text-center font-semibold text-2xl">
                     Programs
                 </h1>
                 <h3 class="mt-3 text-center">Learn to skate with India’s best</h3>
                 <div class="flex md:flex-no-wrap xs:flex-wrap items-center justify-center mt-5">
-                    <div class="px-6 py-6 m-2 text-center">
+                    <div class="md:px-6 py-6 m-2 text-center">
                         <img src="./../assets/Speed skating.jpg" alt="mountain image" class="h-1/2screen mb-4">
                         <h3 class="mb-4">Speed Skating</h3>
                         <p class="text-black font-base text-sm opacity-50">
                             Speed skating is an exhilarating competitive sport where athletes race on ice skates around an oval track, striving for the fastest time. It's often cited as the fastest non-assisted human sport.
                         </p>
                     </div>
-                    <div class="px-6 py-6 m-2 text-center">
+                    <div class="md:px-6 py-6 m-2 text-center">
                         <img src="./../assets/Bandy.jpg" alt="tent image" class="h-1/2screen mb-4">
                         <h3 class="mb-4">Bandy</h3>
                         <p class="text-black font-base text-sm opacity-50">
@@ -29,7 +29,7 @@ This helps improve balance, coordination, and stamina.
                 </div>
                  <div class="flex md:flex-no-wrap xs:flex-wrap items-center justify-center mt-5">
                    
-                    <div class="px-6 py-6 m-2 text-center">
+                    <div class="md:px-6 py-6 m-2 text-center">
                         <img src="./../assets/Roll ball.jpg" alt="tent image" class="h-1/2screen mb-4">
                         <h3 class="mb-4">Roll Ball</h3>
                         <p class="text-black font-base text-sm opacity-50">
@@ -39,7 +39,7 @@ Passing, dribbling, and goal-scoring, Team coordination,Agility and quick reflex
 Perfect for building teamwork and confidence.
                         </p>
                     </div>
-                    <div class="px-6 py-6 m-2 text-center">
+                    <div class="md:px-6 py-6 m-2 text-center">
                         <img src="./../assets/Roller hockey.jpg" alt="picnic image" class="h-1/2screen mb-4">
                         <h3 class="mb-4">Roller Hockey</h3>
                         <p class="text-black font-base text-sm opacity-50">
