@@ -10,7 +10,7 @@
           {{ testimonial.message }}
         </p>
         <div class="inline-flex">
-            <img :src="'avatars/' + testimonial.icon" alt="avatar" class="h-1/2screen">
+            <img v-if="testimonial.icon" :src="'avatars/' + testimonial.icon" alt="avatar" class="h-1/2screen">
           <div class="flex justify-center ml-6 mt-3 text-black" style="
     flex-direction: column;
 ">

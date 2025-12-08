@@ -1,7 +1,7 @@
 <template>
     <div id="download" class="pt-12 pb-12 w-full text-center">
         <h1 class="font-semibold text-2xl">🔵 Who Can Join?</h1>
-        <div class="mt-4  text-sm md:block xs:hidden">
+        <div class="mt-4  text-sm md:block">
             <div>Kids from 2.5 years</div>
 
 <div>Teenagers</div>

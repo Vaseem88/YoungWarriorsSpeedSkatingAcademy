@@ -24,9 +24,19 @@
                     <span class="text-base">7338881156</span>
                     
                 </div>
+                <div class="flex mt-1 opacity-50 items-center">
+                    <img src="./../assets/phone.svg" alt="" class="h-4 mr-2">
+                    <span class="text-base">9788261156</span>
+                    
+                </div>
+                <div class="flex mt-1 opacity-50 items-center">
+                    <img src="./../assets/phone.svg" alt="" class="h-4 mr-2">
+                    <span class="text-base">7871919383</span>
+                    
+                </div>
                 <div class="flex items-center mt-2 opacity-50">
                     <img src="./../assets/mail.svg" alt="" class="h-4 mr-2">
-                    <a href="mailto:info@dasos.com" class="no-underline text-base text-main-green">9788261156</a>
+                    <a href="mailto:Youngwarriorsskating@gmail.com" class="no-underline text-base text-main-green">Youngwarriorsskating@gmail.com</a>
                 </div>
             </div>
             <div class="md:w-1/3 xs:w-full md:mt-0 xs:mt-6">
