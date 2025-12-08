@@ -4,13 +4,12 @@
             <navigation-menu></navigation-menu>
             <div class="pt-16 lg:flex items-center">
                 <div class="lg:w-1/2 text-center">
-                    <img src="./../assets/illustration-rb1.png" alt="skating park image" class="xl:h-iphones lg:h-100 md:h-100 sm:h-100 xs:h-100">
+                    <img src="./../assets/logo char with white1.png" alt="skating park image" class="xl:h-iphones lg:h-100 md:h-100 sm:h-100 xs:h-100">
                 </div>
     
                 <div class="w-auto xs:m-0 md:m-1 md:pl-24 md:pr-24">
                     <h2 class="text-white font-black lg:text-4xl md:text-3xl sm:text-xl xs:text-lg mb-4 lg:w-4/5 text-center">
-                        Building Champions
-Inspiring Passion
+                        Discipline makes warriors. Passion creates champions.
                     </h2>
                     <div class="text-grey-light opacity-50 mb-4 text-justify lg:w-4/5 md:text-md sm:text-sm xs:text-sm">
                         Empowering Confidence through Skill
