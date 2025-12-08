@@ -2,7 +2,7 @@
     <div>
         <header class="container mx-auto">
             <navigation-menu></navigation-menu>
-            <div class="pt-16 lg:flex items-center">
+            <div class="lg:flex items-center">
                 <div class="lg:w-1/2 text-center">
                     <img src="./../assets/logo char with white1.png" alt="skating park image" class="xl:h-iphones lg:h-100 md:h-100 sm:h-100 xs:h-100">
                 </div>

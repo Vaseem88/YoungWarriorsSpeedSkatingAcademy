@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <app-header></app-header>
+    <app-specials></app-specials>
     <app-features></app-features>
     <app-download></app-download>
     <app-testimonials></app-testimonials>
@@ -16,6 +17,7 @@ import AppTestimonials from "./components/AppTestimonials.vue";
 import AppFooter from "./components/AppFooter.vue";
 import AppContact from "./components/AppContact.vue";
 import AppDownload from "./components/AppDownload.vue";
+import AppSpecials from "./components/AppSpecials.vue";
 
 export default {
   components: {
@@ -24,7 +26,8 @@ export default {
     AppTestimonials,
     AppFooter,
     AppContact,
-    AppDownload
+    AppDownload,
+    AppSpecials
   }
 };
 </script>
