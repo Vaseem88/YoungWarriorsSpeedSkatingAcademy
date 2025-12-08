@@ -54,7 +54,7 @@ Great for kids who love speed and action.
                 
                 <div id="About" class="flex md:flex-no-wrap xs:flex-wrap items-center justify-center lg:mt-64 xs:mt-0">
                     <div class="flex-1">
-                        <div class="px-12 py-12 m-4 text-center">
+                        <div class="px-12 py-12 md:m-4 text-center">
                             <img src="./../assets/compass.svg" alt="compass image" class="h-16 mb-4">
                             <h3 class="mb-4">About Our Classes</h3>
                             <p class="text-black font-thin text-xs opacity-50">
@@ -62,7 +62,7 @@ Great for kids who love speed and action.
 
                             </p>
                         </div>
-                        <div class="px-12 py-12 m-4 text-center">
+                        <div class="px-12 py-12 md:m-4 text-center">
                             <img src="./../assets/canteen.svg" alt="canteen image" class="h-16 mb-4">
                             <h3 class="mb-4">Special Focus</h3>
                             <p class="text-black font-thin text-xs opacity-50">
@@ -78,7 +78,7 @@ Great for kids who love speed and action.
                         <img src="./../assets/kid.jpg" alt="kid image" class="h-iphone">
                     </div>
                     <div class="flex-1">
-                        <div class="px-12 py-12 m-4 text-center">
+                        <div class="px-12 py-12 md:m-4 text-center">
                             <img src="./../assets/forest.svg" alt="forest image" class="h-16 mb-4">
                             <h3 class="mb-4">💙 Special Needs Children (Any Age)</h3>
                             <p class="text-black font-thin text-xs opacity-50">
@@ -86,7 +86,7 @@ Great for kids who love speed and action.
 Autism Spectrum, Learning difficulties, Developmental delays, Sensory challenges and Mild physical coordination issues.
                             </p>
                         </div>
-                        <div class="px-12 py-12 m-4 text-center">
+                        <div class="px-12 py-12 md:m-4 text-center">
                             <img src="./../assets/pines.svg" alt="pines image" class="h-16 mb-4">
                             <h3 class="mb-4">✔️ Why Parents Trust Us</h3>
                             <p class="text-black font-thin text-xs opacity-50">
