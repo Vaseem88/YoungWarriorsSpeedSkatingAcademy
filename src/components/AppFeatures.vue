@@ -57,7 +57,7 @@ Great for kids who love speed and action.
                         <div class="px-12 py-12 md:m-4 text-center">
                             <img src="./../assets/compass.svg" alt="compass image" class="h-16 mb-4">
                             <h3 class="mb-4">About Our Classes</h3>
-                            <p class="text-black font-thin text-xs opacity-50">
+                            <p class="text-black font-thin text-xs">
                                 We offer skating training for all age groups starting from 2.5 years up to adults. Our programs are designed to help every learner build confidence, balance, coordination, and discipline in a fun and structured environment.
 
                             </p>
@@ -65,7 +65,7 @@ Great for kids who love speed and action.
                         <div class="px-12 py-12 md:m-4 text-center">
                             <img src="./../assets/canteen.svg" alt="canteen image" class="h-16 mb-4">
                             <h3 class="mb-4">Special Focus</h3>
-                            <p class="text-black font-thin text-xs opacity-50">
+                            <p class="text-black font-thin text-xs">
                                
                                 Hyperactive Kids & Special Needs Children
                                 We provide individual attention and customized training methods for:
@@ -81,7 +81,7 @@ Great for kids who love speed and action.
                         <div class="px-12 py-12 md:m-4 text-center">
                             <img src="./../assets/forest.svg" alt="forest image" class="h-16 mb-4">
                             <h3 class="mb-4">💙 Special Needs Children (Any Age)</h3>
-                            <p class="text-black font-thin text-xs opacity-50">
+                            <p class="text-black font-thin text-xs">
                                We welcome children with conditions such as:
 Autism Spectrum, Learning difficulties, Developmental delays, Sensory challenges and Mild physical coordination issues.
                             </p>
@@ -89,7 +89,7 @@ Autism Spectrum, Learning difficulties, Developmental delays, Sensory challenges
                         <div class="px-12 py-12 md:m-4 text-center">
                             <img src="./../assets/pines.svg" alt="pines image" class="h-16 mb-4">
                             <h3 class="mb-4">✔️ Why Parents Trust Us</h3>
-                            <p class="text-black font-thin text-xs opacity-50">
+                            <p class="text-black font-thin text-xs">
                                 Trained and patient instructors, Safe, controlled teaching techniques, Flexible learning pace, Friendly environment for all children, Focus on emotional and social development along with skating
                             </p>
                         </div>
