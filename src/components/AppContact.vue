@@ -8,15 +8,21 @@
                 <div id="Locations" class="mt-12 font-bold">
                     Location
                 </div>
-                <div class="mt-2 md:text-base xs:text-sm opacity-50">
+                <div class="mt-2 md:text-base xs:text-sm">
+                  
                     <div>
-                        Etti Annal Nagar,
+                        Sri Aiyappa Nagar 7th St, Secretariat Nagar,
                     </div>
                     <div>
                          Poonamallee, Chennai, 
                     </div>
                     <div>
-                        Tamil Nadu 600056
+                        Tamil Nadu 600099
+                    </div>
+                    <div>
+                      <a target="_blank" href="https://maps.app.goo.gl/CXEghgQSrmSuGwta8?g_st=ac">
+                      <img src="./../assets/googleMap.png" alt="location icon" class="h-8 m-2">
+                  </a>
                     </div>
                 </div>
                 <div class="flex mt-12 opacity-50 items-center">
