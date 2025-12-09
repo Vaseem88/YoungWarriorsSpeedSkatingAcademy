@@ -20,7 +20,7 @@
                         Tamil Nadu 600110
                     </div>
                     <div>
-                      <a target="_blank" href="https://maps.app.goo.gl/CXEghgQSrmSuGwta8?g_st=ac">
+                      <a target="_blank" href="https://maps.app.goo.gl/2L9RNmPLhaEHLpev9">
                       <img src="./../assets/googleMap.png" alt="location icon" class="h-8 m-2">
                   </a>
                     </div>
