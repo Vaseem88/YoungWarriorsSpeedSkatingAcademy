@@ -1,13 +1,16 @@
 <template>
     <div id="download" class="pt-12 pb-12 w-full text-center">
         <h1 class="font-semibold text-2xl">🔵 Who Can Join?</h1>
-        <div class="mt-4  text-sm md:block">
+        <div class="mt-4  text-lg md:block">
             <div>Kids from 2.5 years</div>
 
 <div>Teenagers</div>
 
 <div>Adults</div>
 
+        </div> 
+        <div class="mt-4 opacity-75 text-sm md:block">
+           
 <div>Hyperactive children (ADHD tendencies)</div>
 
 <div>Special needs children of any age</div>
