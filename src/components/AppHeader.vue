@@ -8,14 +8,14 @@
                 </div>
     
                 <div class="w-auto xs:m-0 md:m-1 md:pl-24 md:pr-24">
-                    <h2 class="text-white font-black lg:text-4xl md:text-3xl sm:text-xl xs:text-lg mb-4 lg:w-4/5 text-center">
+                    <h2 class="text-white font-black lg:text-4xl md:text-3xl sm:text-xl mb-4 lg:w-4/5 text-center">
                         Discipline makes warriors. Passion creates champions.
                     </h2>
-                    <div class="text-grey-light opacity-50 mb-4 text-justify lg:w-4/5 md:text-md sm:text-sm xs:text-sm">
+                    <div class="text-grey-light opacity-50 mb-4 text-center lg:w-4/5 md:text-md sm:text-sm">
                         Empowering Confidence through Skill
                     </div>
                     <div class="flex text-center lg:w-auto mb-4 lg:mb-0 justify-center lg:w-4/5">
-                        <a href="#" v-scroll-to="'#contact'" class="flex-1 text-center verical-center justify-center text-sm px-6 py-3 leading-none no-underline border rounded-xl bg-main-green text-grey-lightest border-black hover:border-grey-lightest hover:text-grey-lightest hover:bg-transparent mt-4 mt-0 mr-10">
+                        <a href="#" v-scroll-to="'#contact'" class="flex-1 text-center verical-center justify-center text-sm px-6 py-3 leading-none no-underline border rounded-xl bg-main-green text-grey-lightest border-black hover:border-grey-lightest hover:text-grey-lightest hover:bg-transparent mt-4">
                             Enroll Now
                         </a>
                     </div>
