@@ -1,6 +1,6 @@
 <template>
   <div id="testimonials" class="bg-grey-lightest pt-12 pb-12">
-      <carousel :per-page="1" class="text-black" autoplay loop paginationColor="#000000" paginationActiveColor="#1f8a65">
+      <carousel :per-page="1" class="text-black" autoplay autoplayTimeout="5000" loop paginationColor="#000000" paginationActiveColor="#1f8a65">
         <slide v-for="testimonial in testimonials" :key="testimonial.id">
           <div class="text-center">
         <div class="text-2xl italic">
