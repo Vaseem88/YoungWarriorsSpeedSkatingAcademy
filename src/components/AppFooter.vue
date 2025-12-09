@@ -30,11 +30,12 @@
                 © 2024 Young Warriors Speed Skating Academy. All rights reserved.
             </div>
             <div class="mt-5">
-                <img src="./../assets/facebook.svg" alt="facebook icon" class="h-6 mr-6">
-                <img src="./../assets/twitter.svg" alt="twitter icon" class="h-6 mr-6">
-                <img src="./../assets/youtube.svg" alt="youtube icon" class="h-6">
-                <!-- <img src="./../assets/google-plus.svg" alt="googleplus icon" class="h-6"> -->
-                <!-- <img src="./../assets/linkedin.svg" alt="" class="h-6 mr-6"> -->
+                <a target="_blank" href="https://www.facebook.com/share/1Gi6YMFJcd/">
+                    <img src="./../assets/facebook.svg" alt="facebook icon" class="h-6 mr-6">
+                </a>
+                <a target="_blank" href="https://www.instagram.com/_youngwarriors_skating_academy">
+                    <img src="./../assets/instagram.svg" alt="instagram icon" class="h-6 mr-6">
+                </a>
             </div>
 
         </div>
