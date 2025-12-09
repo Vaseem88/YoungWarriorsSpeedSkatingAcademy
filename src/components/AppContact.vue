@@ -20,9 +20,10 @@
                     </div>
                 </div>
                 <div class="flex mt-12 opacity-50 items-center">
-                    <img src="./../assets/phone.svg" alt="" class="h-4 mr-2">
+                  <a href="https://wa.me/917338881156?text=Hi">
+                    <img src="./../assets/whatsppIcon1.svg" alt="" class="h-4 mr-2">
                     <span class="text-base">7338881156</span>
-                    
+                    </a>
                 </div>
                 <div class="flex mt-1 opacity-50 items-center">
                     <img src="./../assets/phone.svg" alt="" class="h-4 mr-2">
