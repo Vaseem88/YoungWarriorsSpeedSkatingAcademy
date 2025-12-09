@@ -29,14 +29,6 @@
             <div class="text-grey-lightest opacity-50">
                 © 2024 Young Warriors Speed Skating Academy. All rights reserved.
             </div>
-            <div class="mt-5">
-                <a target="_blank" href="https://www.facebook.com/share/1Gi6YMFJcd/">
-                    <img src="./../assets/facebook.svg" alt="facebook icon" class="h-6 mr-6">
-                </a>
-                <a target="_blank" href="https://www.instagram.com/_youngwarriors_skating_academy">
-                    <img src="./../assets/instagram.svg" alt="instagram icon" class="h-6 mr-6">
-                </a>
-            </div>
 
         </div>
         

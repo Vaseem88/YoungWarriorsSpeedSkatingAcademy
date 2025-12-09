@@ -11,13 +11,13 @@
                 <div class="mt-2 md:text-base xs:text-sm">
                   
                     <div>
-                        Sri Aiyappa Nagar 7th St, Secretariat Nagar,
+                        6, Sri Aiyappa Nagar 7th St, Munusamy Nagar, 
                     </div>
                     <div>
-                         Poonamallee, Chennai, 
+                         Ponniammanmedu, Chennai, 
                     </div>
                     <div>
-                        Tamil Nadu 600099
+                        Tamil Nadu 600110
                     </div>
                     <div>
                       <a target="_blank" href="https://maps.app.goo.gl/CXEghgQSrmSuGwta8?g_st=ac">
@@ -45,6 +45,15 @@
                     <img src="./../assets/mail.svg" alt="" class="h-4 mr-2">
                     <a href="mailto:Youngwarriorsskating@gmail.com" class="no-underline text-base text-main-green">Youngwarriorsskating@gmail.com</a>
                 </div>
+                
+            <div class="mt-5">
+                <a target="_blank" href="https://www.facebook.com/share/1Gi6YMFJcd/">
+                    <img src="./../assets/facebook.svg" alt="facebook icon" class="h-6 mr-6">
+                </a>
+                <a target="_blank" href="https://www.instagram.com/_youngwarriors_skating_academy">
+                    <img src="./../assets/instagram.svg" alt="instagram icon" class="h-6 mr-6">
+                </a>
+            </div>
             </div>
             <div class="md:w-1/3 xs:w-full md:mt-0 xs:mt-6">
                 <form action="#" method="post" class="" v-on:submit.prevent>
