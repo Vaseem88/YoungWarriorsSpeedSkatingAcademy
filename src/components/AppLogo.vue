@@ -1,6 +1,6 @@
 <template>
-    <div class="flex flex-wrap items-center mr-6">
-        <img src="./../assets/logo -rm1.png" alt="Young Warriors Speed Skating Academy Logo" class="block md:h-1/2screen mr-2" >
+    <div class="flex flex-wrap items-center md:w-1/2 mr-6">
+        <img src="./../assets/logo char with white3.png" alt="Young Warriors Speed Skating Academy Logo" class="block mr-2" >
         
     </div>
 </template>
