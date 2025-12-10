@@ -2,7 +2,6 @@
 // const { defineConfig } = require('@vue/cli-service') <--- DELETE THIS
 
 module.exports = {  
-  // Set your publicPath here
   publicPath: './',
 }
 
