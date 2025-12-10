@@ -1,15 +1,12 @@
-const { defineConfig } = require('@vue/cli-service')
+// Remove the require line for defineConfig entirely
+// const { defineConfig } = require('@vue/cli-service') <--- DELETE THIS
 
-module.exports = defineConfig({
+module.exports = {
   transpileDependencies: true,
   
-  // CORRECT: publicPath is at the root level
-  // Use './' (relative) or '' (empty string) to fix the blank page issue
-  publicPath: './', 
-  
-  // INCORRECT: Do not use "output" here
-  // output: { ... } 
-})
+  // Set your publicPath here
+  publicPath: './',
+}
 
 /*
 module.exports = {
